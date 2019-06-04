@@ -1,6 +1,6 @@
 # ShopIS
-Information system for a grocery shop.
+An information system for a grocery shop.
 
 # Run
-In the first time to login in application you must use login: "admin" with password "admin".
+In the first time if you want to sign in application, you should use a login "admin" and a password "admin".
 If you want to login as a seller, you should add that account.
